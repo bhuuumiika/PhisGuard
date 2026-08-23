@@ -111,4 +111,4 @@ call the backend at `http://localhost:8000`.
 
 ## Author
 
-Bhumika — B.Tech, CSVTU
+Bhumika Agrawal — B.Tech
